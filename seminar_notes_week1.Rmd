@@ -1,0 +1,58 @@
+---
+title: "Demography TraininggSeminar Notes 8/25"
+author: "Thelonious Goerz"
+date: "2023-08-25"
+output: html_document
+---
+
+**Housekeeping**
+
+-   Point of contact at CPC is Gretchen
+
+**Looking ahead**
+
+-   Methodological workshops
+
+    -   Sharon Sassler - Qualitative methods
+
+    -   Ian Lundberg - Marginal Structural Models
+
+-   Job training
+
+    -   PhD research for policy work
+
+**Suggestions**
+
+-   Email Vida about method workshops/ideas
+
+**Training**
+
+-   Intranet will be in the graduate section
+
+    -   The information on abstracts etc. will be there
+
+**PAA Stuff**
+
+-   Let CPC know by september 15th if you are going to present
+
+    -   Due a week before the deadline
+
+    -   PAA due oct 1
+
+        -   37 days til registration
+
+    -   Submit an abstract - Challenge is good
+
+        -   Look at the call for papers
+
+-   Students are responsible for registration
+
+-   CPC also has rapid response grants for small funding projects
+
+    -   Projects need to be pop science and they need to have an itemized budget -- the grants are about \$1000, Minors and CPC affiliates have priority
+
+**Other**
+
+-   Global Development
+
+    -   critical GIS and cartography
