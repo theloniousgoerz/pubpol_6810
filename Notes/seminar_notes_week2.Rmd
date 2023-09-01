@@ -1,0 +1,90 @@
+---
+title: "Demography Training Seminar Notes Week 2"
+author: "Thelonious Goerz"
+date: "2023-09-01"
+output: pdf_document
+---
+
+**Agenda**
+
+-   PAA practice talk
+
+-   Need to create extended abstract w/ 2-3 descriptive results
+
+**Preliminaries**
+
+-   How does the backend of your conference submission work?
+
+-   PAA application requirements
+
+    -   Title
+
+    -   150 word abstract
+
+    -   2-4 page extended abstract
+
+    -   Identify two sessions for submission
+
+-   ASA now allows abstracts too
+
+-   Conferences are commitment mechanisms for critique and publication
+
+**PAA Specifics**
+
+-   Three sessions
+
+    -   Flash
+
+    -   Regular
+
+    -   Poster
+
+        -   Each session has an organizer and presider (It is important to note who this is and what their disciplinary background is)
+
+    -   Organizers know your rank of your preferences for the session as well as what your backup is
+
+    -   Organizers can defer papers between rankings, session organizers can either wait for each other to rank or retain the paper in a session
+
+-   PAA plans for roughly 100 extra sessions (overflow)
+
+    -   Each session will spawn 2-3 sessions. These will be topically oriented depending on what papers come into the sessions
+
+**Things to note**
+
+-   Your name and title are visible
+
+-   Your paper title
+
+-   Your short abstract
+
+-   What matters
+
+    -   Long abstract matters
+
+    -   quality and innovation of idea
+
+    -   feasibility of what you have proposed
+
+    -   internal coherence of a given session
+
+    -   Representation across a variable or set of conditions that matter to the organizer
+
+**Abstract and title writing**
+
+-   Specific titles are good (but legible to the median demographer (basically))
+
+    -   Racial disparities in age-segregation among older adults in Chicago
+
+-   The short abstract is a pitch (general accessible language with specialized language about the approach
+
+-   Short abstract should be polished long abstract can be a bit less polished
+
+**Submission**
+
+-   Do I need the data?
+
+-   Do I need results?
+
+-   How do I pick sessions?
+
+-   tinyurl.com/298m8uvx
